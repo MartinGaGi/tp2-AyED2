@@ -1,7 +1,7 @@
 # 📘 Trabajo Práctico 2 - Algoritmos y Estructura de Datos II
 
 ## 👨‍💻 Alumno
-MartinGaGi
+Martin Gabriel Gimenez
 
 ---
 
